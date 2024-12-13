@@ -1,0 +1,10 @@
+{
+    "name": "Fundryu",
+    "version": "0.2.1",
+    "title": "Fundryu",
+    "author": "Azertyyu",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0","? space-age"],
+    "description": "An ultimate Foundry with high quality textures and animations that produces at a titanic speed at the expense of ambient air quality! High Pollution!",
+"description_fr": "Une fonderie ultime avec des textures HQ et des animations HQ qui produit à une vitesse titanesque au détriment de la qualité de l'air ambiant ! Pollution élevée !"
+}

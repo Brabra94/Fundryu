@@ -1,0 +1,88 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 06.12.2024
+Bugfixes:
+- Accidentally deleted the result (copper-cable) of the recipe (Copper-Mastery)
+Changes:
+- New High Quality icons (Thanks to @malcolmriley)
+- Decreased animation speed from 0.3 to 0.15
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 06.12.2024
+Changes:
+- Descriptions of the technology fundryu-foundry
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 06.12.2024
+Bugfixes:
+- Now pollution and pollen working fine
+Changes:
+- Allow productivity on recipes (iron mastery and cooper mastery)
+- Decreased the power of the advanced foundry 
+  - Module slots reduced to 9
+  - Crafting speed decreased to 5 (6 -> 5)
+- Recipe emissions multiplier increased to 2 (so now you have base emissions of the foundry(70/m) + recipe emissions (iron /copper mastery) (400%)) 
+- Now the foundry only take productivity and quality as allowed effects
+---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 05.12.2024
+Changes:
+-  New icon for ‘iron mastery’ technology
+Bugfixes:
+- Recipe output copper-wire instead of copper-cable (Now output copper-cable)
+---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 05.12.2024
+Note:
+- Will fix the icon later and maybe add more recipes later
+Changes:
+- Added new technology to unlock the new recipes for the foundry
+---------------------------------------------------------------------------------------------------
+Version: 0.1.6
+Date: 05.12.2024
+Bugfixes:
+- Fixed the recipe deletion issue
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 05.12.2024
+Changes:
+- Added all smelting recipe to the foundry 
+---------------------------------------------------------------------------------------------------
+Version: 0.1.4
+Date: 04.12.2024
+Features:
+- Added a new category recipe to the foundry so now you can craft more than smelting category items (Will add more recipes later)
+Changes:
+- Added better icons
+- Cleaned up code
+- Stack Size decreased to 1
+- Increased Energy Consumption to 1MW
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 04.12.2024
+Bugfixes:
+- Removed heating_energy to fix freezing issue
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 02.12.2024
+Bugfixes:
+- Fixed icon size issue
+Changes:
+- Add correct technology prerequisites
+- Module slots decreased to 18
+- Increased crafting speed to 6
+- Increased pollution to 70/m
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 02.12.2024
+Changes:
+- Changed the technology required to unlock the advanced foundry
+- Locale:
+- Increased pollution
+Bugfixes:
+- Fixed the collision box
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 02.12.2024
+Initial release:
+- Initial release 0.1.0
