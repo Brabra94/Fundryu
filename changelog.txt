@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 18.12.2024
+Changes:
+- Space Age Support
+- zh localization updated (Thanks to @Houraiji-Kyuusyou)
+- More detailed descriptions
+---------------------------------------------------------------------------------------------------
 Version: 0.2.1
 Date: 06.12.2024
 Bugfixes:
