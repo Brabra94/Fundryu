@@ -9,11 +9,12 @@ Fundryu is a mod for Factorio that introduces an ultimate foundry with high-qual
 - **Type :** Furnace
 - **Module Slots :** 9
 - **Crafting Speed:** 5
-- **Modules Allowed :** Productivity, Quality
+- **Modules Allowed :** Productivity, Quality (Speed and Efficiency modules not allowed)
 - **Energy Consumption :** 
        - **Min :**  10 kw
        - **Max :**  1MW
 - **Pollution/Pollen :** 70/m + recipe pollution (400%)
+- **New Recipes:** Iron mastery and Copper Mastery (need to be unlock to use parameters)
 
 ## Credits
 
