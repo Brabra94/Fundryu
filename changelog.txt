@@ -1,4 +1,47 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.7
+Date: 22.07.2025
+Changes:
+- Added vi translation (Thanks to aiwgh)
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 22.07.2025
+Changes:
+- Added dynamic compatibility with BZ mods (bzcarbon, bzsilicon, bztitanium, bzzirconium):
+  - The advanced foundry recipe and technology now adapt automatically if these mods are active
+  - Optional dependencies for all BZ mods added 
+- Improved modularity and future-proofing for cross-mod integration
+- Added explicit weight value (100000) to the Fundryu item for rocket/platform transport balancing
+- Recipe adjustment, reduced steel plate and iron plate requirements from 1000 to 500 each for the advanced foundry
+- Cleaned up legacy files: all previous versions have been removed for clarity and maintainability.
+- Mastery recipes for BZ mods.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.5
+Date: 21.07.2025
+Changes:
+- Added conditional quality module support for Space Age compatibility
+- Added incompatibility with certain mods for better stability
+- Enhanced translation consistency and terminology across all supported languages
+
+Bugfixes:
+- Fixed allowed module effects (removed speed, efficiency, quality, pollution)
+- Corrected entity type reference in Space Age compatibility code
+- Fixed efficiency module being incorrectly allowed in the advanced foundry
+- Ensured only productivity and quality modules are allowed (quality only with Space Age)
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 21.07.2025
+Changes:
+- Fixed sprite dimensions and animations (540x580, shift 0,-26)
+- Updated icon 
+- Added proper fluid support configuration
+- Added Space Age compatibility (heating_energy, frozen_patch)
+
+Bugfixes:
+- Fixed collision and selection boxes
+- Fixed recipe categories and fluid handling
+
+---------------------------------------------------------------------------------------------------
 Version: 0.2.3
 Date: 18.12.2024
 Bugfixes:
